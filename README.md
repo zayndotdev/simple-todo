@@ -27,7 +27,8 @@ A simple and responsive Todo List App built using **HTML**, **CSS**, and **Vanil
 
 ## 📸 Preview
 
-> You can add screenshots of your app here.
+![image](https://github.com/user-attachments/assets/e484bd62-5e8c-4a77-8699-51c3381e63bc)
+
 
 ---
 
